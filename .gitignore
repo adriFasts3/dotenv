@@ -1,0 +1,8 @@
+CLAUDE.md
+AGENTS.md
+.*.swo
+.*.swp
+*.o
+*.d
+/build/
+/_CPack_Packages/
