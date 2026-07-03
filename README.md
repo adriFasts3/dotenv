@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dotenv.png" alt="dotenv" width="480">
+</p>
+
 # dotenv
 
 A minimal, dependency-free `.env` parser in C, in the spirit of Node.js'
